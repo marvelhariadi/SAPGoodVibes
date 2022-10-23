@@ -7,8 +7,8 @@ Conceptualized to utilize Slack API Integration
 Database console demonstration creeated in Python. Slack API facilitated with Javascript
 
 # UX/UI Prototype
-![gif1](gif1.gif)
-![gif1](gif2.gif)
+![gif1](ui_images/gif1.gif)
+![gif1](ui_images/gif2.gif)
 ![gif1](ui_images/gif3.gif)
 
 
