@@ -7,3 +7,6 @@ Conceptualized to utilize Slack API Integration
 Database console demonstration creeated in Python. Slack API facilitated with Javascript
 
 # UX/UI Demonstration
+
+# Credit
+Created by Playspaces:tm:: Marvel Hariadi, Wenjie Jin, Mars Heidal
