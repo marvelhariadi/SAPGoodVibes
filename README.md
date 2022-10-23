@@ -9,7 +9,7 @@ Database console demonstration creeated in Python. Slack API facilitated with Ja
 # UX/UI Prototype
 ![gif1](gif1.gif)
 ![gif1](gif2.gif)
-![gif1](gif3.gif)
+![gif1](./ui_images/gif3.gif)
 
 
 # Credit
